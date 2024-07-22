@@ -1,0 +1,17 @@
+/*Belong to JS */
+* {
+  box-sizing: border-box;
+}
+.failed {
+  display: block;
+}
+.hidden {
+  display: none;
+}
+.red-border {
+  border: 2px solid red;
+}
+.handleLongUrl {
+  word-break: break-all;
+
+}
